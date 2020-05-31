@@ -1,0 +1,11 @@
+C:/Users/ariel/Documents/GODOT instanciar con CSharp/.mono/temp/bin/Tools/GODOT instanciar con CSharp.dll
+C:/Users/ariel/Documents/GODOT instanciar con CSharp/.mono/temp/bin/Tools/GODOT instanciar con CSharp.pdb
+C:/Users/ariel/Documents/GODOT instanciar con CSharp/.mono/temp/obj/Tools/GODOT instanciar con CSharp.csprojAssemblyReference.cache
+C:/Users/ariel/Documents/GODOT instanciar con CSharp/.mono/temp/obj/Tools/GODOT instanciar con CSharp.csproj.CoreCompileInputs.cache
+C:/Users/ariel/Documents/GODOT instanciar con CSharp/.mono/temp/obj/Tools/GODOT instanciar con CSharp.dll
+C:/Users/ariel/Documents/GODOT instanciar con CSharp/.mono/temp/obj/Tools/GODOT instanciar con CSharp.pdb
+/home/ariel/Documentos/Godot engine proyectos de internet/GODOTENGINE-Csharp-INSTANCE-TEST-master/.mono/temp/bin/Tools/GODOT instanciar con CSharp.dll
+/home/ariel/Documentos/Godot engine proyectos de internet/GODOTENGINE-Csharp-INSTANCE-TEST-master/.mono/temp/bin/Tools/GODOT instanciar con CSharp.pdb
+/home/ariel/Documentos/Godot engine proyectos de internet/GODOTENGINE-Csharp-INSTANCE-TEST-master/.mono/temp/obj/Tools/GODOT instanciar con CSharp.csprojAssemblyReference.cache
+/home/ariel/Documentos/Godot engine proyectos de internet/GODOTENGINE-Csharp-INSTANCE-TEST-master/.mono/temp/obj/Tools/GODOT instanciar con CSharp.dll
+/home/ariel/Documentos/Godot engine proyectos de internet/GODOTENGINE-Csharp-INSTANCE-TEST-master/.mono/temp/obj/Tools/GODOT instanciar con CSharp.pdb

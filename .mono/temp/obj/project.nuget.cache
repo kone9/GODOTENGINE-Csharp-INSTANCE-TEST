@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NKK//Jjm3LVju5tmjrKwJOkXcojD214tVqyPSUm3nQApQNvBaDaOOzq1Bhwr1IBAkIUevJPid8Hh37/f/rMOpw==",
+  "success": true,
+  "projectFilePath": "/home/ariel/Escritorio/GODOTENGINE-Csharp-INSTANCE-TEST-master/GODOT instanciar con CSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/ariel/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/ariel/.nuget/packages/microsoft.netframework.referenceassemblies.net45/1.0.0/microsoft.netframework.referenceassemblies.net45.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
